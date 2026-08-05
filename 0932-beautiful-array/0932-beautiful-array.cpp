@@ -14,7 +14,7 @@ public:
             int x=odd[i];
             result.push_back(2*x-1);
         }
-
+//i.e 1,3,2 --> 1,5,3
         //beautiful array for even positions
         vector <int> even= beautifulArray(n/2);
         //Convert to even numbers
@@ -22,7 +22,8 @@ public:
             int x=even[i];
             result.push_back(2*x);
         }
-
+// i.e 1,2---> 2,4
+// final 1,5,3,2,4 instead of 1,3,2,1,2
         return result;
     }
 };
