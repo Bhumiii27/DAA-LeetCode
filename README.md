@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
+| [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0190-reverse-bits) |
+| [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
@@ -26,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0190-reverse-bits) |
+## Math
+|  |
+| ------- |
+| [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 <!---LeetCode Topics End-->
