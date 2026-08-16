@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 ## Hash Table
 |  |
@@ -26,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -77,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0148-sort-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
