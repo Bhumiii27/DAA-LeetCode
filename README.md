@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0654-maximum-binary-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
+| [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
 ## Math
 |  |
 | ------- |
@@ -129,4 +132,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0654-maximum-binary-tree) |
+## String
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
 <!---LeetCode Topics End-->
