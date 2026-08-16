@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0307-range-sum-query-mutable](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0654-maximum-binary-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,12 +38,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0654-maximum-binary-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 | [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Sorting
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Linked List
 |  |
 | ------- |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [3759-count-elements-with-at-least-k-greater-values](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Matrix
 |  |
 | ------- |
