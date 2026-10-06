@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0055-jump-game) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0148-sort-list](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0134-gas-station) |
