@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0058-length-of-last-word) |
 | [0179-largest-number](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0179-largest-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
