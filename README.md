@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0670-maximum-swap](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0670-maximum-swap) |
 | [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 ## Tree
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0670-maximum-swap](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
