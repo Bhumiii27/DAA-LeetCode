@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
 ## Divide and Conquer
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0217-contains-duplicate) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Counting
