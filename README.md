@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0058-length-of-last-word) |
+| [0125-valid-palindrome](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0179-largest-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [1763-longest-nice-substring](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1763-longest-nice-substring) |
