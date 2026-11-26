@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0307-range-sum-query-mutable](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0307-range-sum-query-mutable) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0654-maximum-binary-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0654-maximum-binary-tree) |
 | [0932-beautiful-array](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0932-beautiful-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0324-wiggle-sort-ii) |
+| [0624-maximum-distance-in-arrays](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0624-maximum-distance-in-arrays) |
 | [0670-maximum-swap](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/0670-maximum-swap) |
 | [1382-balance-a-binary-search-tree](https://github.com/Bhumiii27/DAA-LeetCode/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
